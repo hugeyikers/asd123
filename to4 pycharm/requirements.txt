@@ -1,0 +1,6 @@
+# Testowanie oprogramowania – biblioteki do ćwiczeń (Python 3.14)
+selenium==4.49.0
+pytest==9.1.1
+pytest-html==4.2.0
+pytest-cov==7.1.0
+PyMySQL==1.2.3
